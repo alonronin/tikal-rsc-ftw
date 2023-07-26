@@ -1,0 +1,88 @@
+{
+  "likes": [
+    {
+      "id": 1,
+      "postId": 47
+    },
+    {
+      "id": 2,
+      "postId": 47
+    },
+    {
+      "id": 3,
+      "postId": 47
+    },
+    {
+      "postId": 47,
+      "id": 4
+    },
+    {
+      "postId": 47,
+      "id": 5
+    },
+    {
+      "postId": 47,
+      "id": 6
+    },
+    {
+      "postId": 47,
+      "id": 7
+    },
+    {
+      "postId": 47,
+      "id": 8
+    },
+    {
+      "postId": 47,
+      "id": 9
+    },
+    {
+      "postId": 5,
+      "id": 10
+    },
+    {
+      "postId": 1,
+      "id": 11
+    },
+    {
+      "postId": 1,
+      "id": 12
+    },
+    {
+      "postId": 1,
+      "id": 13
+    },
+    {
+      "postId": 1,
+      "id": 14
+    },
+    {
+      "postId": 29,
+      "id": 15
+    },
+    {
+      "postId": 29,
+      "id": 16
+    },
+    {
+      "postId": 29,
+      "id": 17
+    },
+    {
+      "postId": 29,
+      "id": 18
+    },
+    {
+      "postId": 42,
+      "id": 19
+    },
+    {
+      "postId": 42,
+      "id": 20
+    },
+    {
+      "postId": 3,
+      "id": 21
+    }
+  ]
+}
